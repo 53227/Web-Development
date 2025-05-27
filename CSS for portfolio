@@ -1,0 +1,73 @@
+body 
+{
+    font-family :'Lucida Sans';
+    line-height: 2.6;
+    background-color: darkslategray;
+    color:rgb(249, 249, 249);
+    margin: 5;
+}
+
+header
+{
+    background-color:cadetblue;
+    color:azure;
+    line-height: 1.8;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+header h2{
+    text-decoration: underline;
+}
+
+main
+{
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: burlywood;
+    border-radius: 20px;
+}
+
+section{
+    margin-bottom: 30px;
+}
+
+section h2
+{
+    text-decoration: underline;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+ul,ol
+{
+    margin-bottom: 15px;
+}
+
+ul li,ol li{
+    margin-bottom: 10px;
+
+}
+
+.project{
+    border-bottom: 10px ;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.project h3{
+    font-size: 20px;
+    margin-bottom: 7px;
+}
+
+.project p{
+    margin-bottom: 10px;
+}
+
+
