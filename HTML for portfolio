@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="style1.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Sreehana Chakra - PortFolio </title>
+    </head>
+    <body>
+        <header>
+            <h1> Yakkati Sreehana Chakra</h1>
+        </header>
+
+        <main>
+            <section id = "about"
+            <h2> About Me</h2>
+            <p> I am a passionate and aspiring software developer.I will use my Skills and Knowledge for the growth of the  Company.
+            </p>
+        </section>
+
+        <section id = "Skills">
+            <h2> Skills </h2>
+            <ul>
+                <li>Html</li>
+                <li>CSS</li>
+                <li>Javascript</li>
+                <li>Python</li>
+                <li>SQL</li>
+            </ul>
+        </section> 
+
+        <section id = "Interests">
+            <h2> Interests </h2>
+            <ul>
+                <li>Reading books</li>
+                <li>Listening to Music</li>
+                <li>Watching TV</li>
+                <li>Making food</li>
+            </ul>
+        </section>
+
+        <section id = "projects">
+            <h2> Projects </h2>
+            <div class = "Project">
+                <h1>Leaf Disease Detection</h1>
+                <p> Description: This could detect the Disease in the leaf before it leads to the death of the plant.</p>
+            </div>
+            <div class = "Project">
+                <h1>Sale Prediction</h1>
+                <p> Description: This project will predicts the sales of a particular item available in that store.</p>
+            </div>
+        </section>
+        </main>
+    </body>
+</html>
